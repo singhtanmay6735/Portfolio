@@ -2,7 +2,7 @@
 This repository contains the code for my personal portfolio website, which can be accessed at https://singhtanmay6735.github.io/Portfolio/#.
 
 Introduction
-My portfolio website showcases my work, skills, and experiences as a developer. The website has been designed to be visually appealing, user-friendly, and easy to navigate.
+My portfolio website showcases my work, skills, and experiences as a researcher. The website has been designed to be user-friendly, and easy to navigate.
 
 **Technologies Used**
 The website has been built using HTML, CSS, and JavaScript.
@@ -18,7 +18,7 @@ Contact: This page provides a form for visitors to get in touch with me.
 **Running the Website Locally**
 To run the website locally, clone this repository and open the index.html file in your browser.
 
-```
+```python
 git clone https://github.com/singhtanmay6735/Portfolio.git
 cd Portfolio
 open index.html
